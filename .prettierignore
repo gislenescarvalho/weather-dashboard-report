@@ -1,0 +1,15 @@
+!.storybook
+!.jest
+src/services/corporateApi
+src/services/sasApi
+src/services/corporateApiV2
+src/services/academyApi
+src/services/servicesApi
+src/services/techboardApi
+src/services/eventsApi
+src/services/myProgressApi
+src/services/mentoringApi
+src/services/adminApi
+src/services/monolitoApi
+
+big_files/*
